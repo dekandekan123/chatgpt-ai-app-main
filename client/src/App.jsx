@@ -7,7 +7,6 @@ import bot from "./assets/bot.png";
 import loadingIcon from "./assets/loader.svg";
 
 function App() {
-  <p>Brila Group</p>;
   const [input, setInput] = useState("");
   const [posts, setPosts] = useState([]);
 
