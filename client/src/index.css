@@ -38,6 +38,7 @@ footer {
   height: 50px;
   background: #2b2b36;
   border-radius: 10000px;
+  margin-top: -50px;
 }
 .composebar {
   padding: 0 10px;
